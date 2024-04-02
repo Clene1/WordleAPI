@@ -1,0 +1,6 @@
+@ICE1_OPSC_GROUP_HostAddress = http://localhost:5117
+
+GET {{ICE1_OPSC_GROUP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
